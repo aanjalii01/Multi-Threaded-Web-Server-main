@@ -187,9 +187,9 @@ python3 -m dashboard.dashboard
 ```
 
 **Terminal 3 - Load Test (Optional):**
-4. **Watch Live Updates**: Observe metrics spike and graphs update in real-time
-5. **Toggle Cache**: Click the orange "Caching" card to enable/disable caching
-6. **Review Logs**: Scroll down to see the 10 most recent requests
+```bash
+python3 -m client.client_simulator
+```
 
 ### Using the Dashboard
 
@@ -357,7 +357,7 @@ Created as a comprehensive demonstration of:
 - Web server architecture
 - Real-time data visualization
 - OS concepts in practice
-  
+
 ---
 
 ## 🎓 Learning Outcomes
