@@ -404,7 +404,7 @@ pip install --upgrade flask matplotlib
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [Chart.js](https://www.chartjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
-- 
+
 ---
 
 **⚡ Ready to see it in action? Run `python3 run_all.py` and open http://localhost:5000!**
